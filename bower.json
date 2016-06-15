@@ -1,0 +1,23 @@
+{
+  "name": "NanumGothic",
+  "homepage": "https://github.com/demun/NanumGothic",
+  "authors": [
+    "demun <hjm01@naver.com>"
+  ],
+  "description": "NanumGothic webfont",
+  "main": "",
+  "keywords": [
+    "NanumGothic",
+    "nanumgothicwebfont",
+    "나눔고딕웹폰트"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
