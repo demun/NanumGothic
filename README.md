@@ -51,7 +51,9 @@ body {
 
 
 
-## [demo][http://htmlpreview.github.io/?https://github.com/demun/NanumGothic/blob/master/NanumGothic.html]
+## Demo
+
+나눔고딕이 적용된 데모페이지 [NanumGothic.html](http://htmlpreview.github.io/?https://github.com/demun/NanumGothic/blob/master/NanumGothic.html)
 
 
 
