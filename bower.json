@@ -1,17 +1,20 @@
 {
   "name": "NanumGothic",
+  "version": "0.1.0",
   "homepage": "https://github.com/demun/NanumGothic",
   "authors": [
     "demun <hjm01@naver.com>"
   ],
-  "description": "NanumGothic webfont",
-  "main": "",
+  "description": "나눔고딕 웹폰트, sass less 추가",
+  "main": "NanumGothic.css",
   "keywords": [
     "NanumGothic",
+    "nanumgothic",
     "nanumgothicwebfont",
-    "나눔고딕웹폰트"
+    "나눔고딕웹폰트",
+    "나눔고딕"
   ],
-  "license": "MIT",
+  "license": "SIL OPEN FONT LICENSE",
   "ignore": [
     "**/.*",
     "node_modules",
